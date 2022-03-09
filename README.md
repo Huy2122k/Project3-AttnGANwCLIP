@@ -30,7 +30,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 
 
 **Training and validate**
-Using note book: AttnGAN-Project3.ipynb
+- Using note book: AttnGAN-Project3.ipynb
 
 ### Citing AttnGAN
 If you find AttnGAN useful in your research, please consider citing:
